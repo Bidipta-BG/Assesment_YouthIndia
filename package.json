@@ -1,0 +1,26 @@
+{
+  "name": "assesment_youthindia",
+  "version": "1.0.0",
+  "description": "google calender api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bidipta-BG/Assesment_YouthIndia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bidipta-BG/Assesment_YouthIndia/issues"
+  },
+  "homepage": "https://github.com/Bidipta-BG/Assesment_YouthIndia#readme",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.1",
+    "express": "^4.18.2",
+    "googleapis": "^109.0.1",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20"
+  }
+}
